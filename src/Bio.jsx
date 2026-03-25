@@ -1,7 +1,7 @@
 import ScrollReveal from './ScrollReveal.jsx'
 import Footer from './Footer.jsx'
 import Biog from './assets/Biography.png'
-import King from './assets/King.PNG'
+import King from './assets/King.png'
 
 
 function Biography() {
