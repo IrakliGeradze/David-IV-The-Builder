@@ -1,4 +1,3 @@
-import React from 'react'
 import ScrollReveal from './ScrollReveal.jsx'
 import Footer from './Footer.jsx'
 import Seljuks from './assets/Seljuks.png'

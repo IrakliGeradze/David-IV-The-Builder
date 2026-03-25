@@ -1,5 +1,3 @@
-import React from 'react'
-import Sword from './assets/sword.png'
 import ScrollReveal from './ScrollReveal.jsx'
 import Footer from './Footer.jsx'
 import Biog from './assets/Biography.png'

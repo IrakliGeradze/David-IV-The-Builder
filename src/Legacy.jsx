@@ -1,7 +1,5 @@
-import React from 'react'
 import ScrollReveal from './ScrollReveal.jsx'
 import Footer from './Footer.jsx'
-import Header from './Header.jsx'
 import lega from './assets/imag.png'
 import first from './assets/1.png'
 import second from './assets/2.png'
